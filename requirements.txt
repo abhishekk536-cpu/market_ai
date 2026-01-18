@@ -1,7 +1,1 @@
-streamlit
-pandas
-numpy
-matplotlib
-yfinance
-requests
-streamlit-autorefresh
+streamlitpandasnumpyyfinancematplotlibseabornopenpyxlrequests
