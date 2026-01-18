@@ -1,0 +1,101 @@
+[
+    {
+        "train_start": "2024-11-27",
+        "train_end": "2025-02-18",
+        "test_start": "2025-02-19",
+        "test_end": "2025-03-20",
+        "best_multiplier": 2.0,
+        "train_avg_r": -0.024,
+        "test_avg_r": 0.044
+    },
+    {
+        "train_start": "2024-12-26",
+        "train_end": "2025-03-20",
+        "test_start": "2025-03-21",
+        "test_end": "2025-04-23",
+        "best_multiplier": 1.0,
+        "train_avg_r": 0.04,
+        "test_avg_r": -0.027
+    },
+    {
+        "train_start": "2025-01-23",
+        "train_end": "2025-04-23",
+        "test_start": "2025-04-24",
+        "test_end": "2025-05-22",
+        "best_multiplier": 2.0,
+        "train_avg_r": -0.001,
+        "test_avg_r": 0.067
+    },
+    {
+        "train_start": "2025-02-19",
+        "train_end": "2025-05-22",
+        "test_start": "2025-05-23",
+        "test_end": "2025-06-19",
+        "best_multiplier": 1.0,
+        "train_avg_r": 0.069,
+        "test_avg_r": 0.024
+    },
+    {
+        "train_start": "2025-03-21",
+        "train_end": "2025-06-19",
+        "test_start": "2025-06-20",
+        "test_end": "2025-07-17",
+        "best_multiplier": 1.0,
+        "train_avg_r": 0.053,
+        "test_avg_r": 0.022
+    },
+    {
+        "train_start": "2025-04-24",
+        "train_end": "2025-07-17",
+        "test_start": "2025-07-18",
+        "test_end": "2025-08-14",
+        "best_multiplier": 1.0,
+        "train_avg_r": 0.093,
+        "test_avg_r": -0.222
+    },
+    {
+        "train_start": "2025-05-23",
+        "train_end": "2025-08-14",
+        "test_start": "2025-08-18",
+        "test_end": "2025-09-15",
+        "best_multiplier": 2.0,
+        "train_avg_r": -0.016,
+        "test_avg_r": 0.02
+    },
+    {
+        "train_start": "2025-06-20",
+        "train_end": "2025-09-15",
+        "test_start": "2025-09-16",
+        "test_end": "2025-10-14",
+        "best_multiplier": 2.0,
+        "train_avg_r": -0.023,
+        "test_avg_r": -0.058
+    },
+    {
+        "train_start": "2025-07-18",
+        "train_end": "2025-10-14",
+        "test_start": "2025-10-15",
+        "test_end": "2025-11-12",
+        "best_multiplier": 2.0,
+        "train_avg_r": -0.043,
+        "test_avg_r": 0.183
+    },
+    {
+        "train_start": "2025-08-18",
+        "train_end": "2025-11-12",
+        "test_start": "2025-11-13",
+        "test_end": "2025-12-10",
+        "best_multiplier": 1.0,
+        "train_avg_r": 0.097,
+        "test_avg_r": 0.068
+    },
+    {
+        "train_start": "2025-09-16",
+        "train_end": "2025-12-10",
+        "test_start": "2025-12-11",
+        "test_end": "2026-01-07",
+        "best_multiplier": 1.0,
+        "train_avg_r": 0.1,
+        "test_avg_r": -0.076
+    }
+]
